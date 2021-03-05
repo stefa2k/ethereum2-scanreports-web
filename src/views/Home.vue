@@ -1,9 +1,9 @@
 <template>
   <div class="container large-container">
     <div class="text-center">
-      <img class="d-block mx-auto mb-4" src="https://stereum.net/wp-content/uploads/2020/11/icon__eth.png" alt="" width="72" height="72">
+      <img class="d-block mx-auto mb-4" src="https://stereum.net/wp-content/uploads/2020/11/stereum_logo_small.png" alt="">
       <h2>stereum.net CVE List</h2>
-      <p class="lead">Shows you the security information of all the stereum managed images.</p>
+      <p class="lead">Shows you the security information of Ethereum 2.0 docker images.</p>
     </div>
     <div class="row">
       <div class="col-md-4 order-md-2 mb-4">
